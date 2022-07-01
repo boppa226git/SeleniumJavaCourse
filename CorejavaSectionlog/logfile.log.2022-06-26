@@ -1,0 +1,33 @@
+2022-06-26 17:39:39 INFO  logEx     - This is a Info Log
+2022-06-26 17:39:39 ERROR logEx     - Error in a Project
+2022-06-26 17:40:56 INFO  logEx     - This is a Info Log
+2022-06-26 17:40:56 ERROR logEx     - Error in a Project
+2022-06-26 17:41:25 INFO  logEx     - This is a Info Log
+2022-06-26 17:41:25 ERROR logEx     - Error in a Project
+2022-06-26 17:41:42 INFO  logEx     - This is a Info Log
+2022-06-26 17:41:42 ERROR logEx     - Error in a Project
+2022-06-26 17:42:56 INFO  logEx     - This is a Info Log
+2022-06-26 17:42:56 ERROR logEx     - Error in a Project
+2022-06-26 17:43:08 INFO  logEx     - This is a Info Log
+2022-06-26 17:43:08 ERROR logEx     - Error in a Project
+2022-06-26 17:44:12 INFO  logEx     - This is a Info Log
+2022-06-26 17:44:12 ERROR logEx     - Error in a Project
+2022-06-26 17:44:54 INFO  logEx     - This is a Info Log
+2022-06-26 17:44:54 ERROR logEx     - Error in a Project
+2022-06-26 17:44:58 INFO  logEx     - This is a Info Log
+2022-06-26 17:44:58 ERROR logEx     - Error in a Project
+2022-06-26 17:45:00 INFO  logEx     - This is a Info Log
+2022-06-26 17:45:00 ERROR logEx     - Error in a Project
+2022-06-26 17:45:20 INFO  logEx     - This is a Info Log
+2022-06-26 17:45:20 ERROR logEx     - Error in a Project
+2022-06-26 17:45:38 ERROR logEx     - This is a Debug Log1
+2022-06-26 17:45:38 INFO  logEx     - This is a Info Log
+2022-06-26 17:45:38 ERROR logEx     - Error in a Project
+2022-06-26 17:46:59 INFO  logEx     - This is a Info Log
+2022-06-26 17:46:59 ERROR logEx     - Error in a Project
+2022-06-26 17:46:59 INFO  logEx     - This is a Info Log
+2022-06-26 17:46:59 ERROR logEx     - Error in a Project
+2022-06-26 17:47:21 INFO  logEx     - This is a Info Log
+2022-06-26 17:47:21 ERROR logEx     - Error in a Project
+2022-06-26 17:47:58 INFO  logEx     - This is a Info Log
+2022-06-26 17:47:58 ERROR logEx     - Error in a Project
